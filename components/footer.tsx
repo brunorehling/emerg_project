@@ -2,8 +2,8 @@ function Footer() {
 
   return (
     <>
-        <div className="bg-black text-white">
-            <h3>disfiaifib</h3>
+        <div className="flex justify-center bg-black text-white">
+            <h3>propriedade de &copy; Clícina Boa Saúde</h3>
         </div>
     </>
   )
